@@ -144,3 +144,9 @@ CKEDITOR_CONFIGS = {
         ]
     }
 }
+
+# Email config
+EMAIL_HOST = 'smtp.mailtrap.io'
+EMAIL_HOST_USER = 'dc8711acb4c2ac'
+EMAIL_HOST_PASSWORD = 'a78bac4b231b7a'
+EMAIL_PORT = '2525'
