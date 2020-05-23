@@ -1,2 +1,2 @@
 # WebEmpresarial
-Proyecto terminado yfuncionando
+Proyecto terminado y funcionando
